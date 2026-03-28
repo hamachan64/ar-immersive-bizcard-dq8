@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DegitalCard-0.1.0";
 const contentToCache = [
-    "Build/cd9b53ac03142b2718955580a8d9c1de.loader.js",
+    "Build/184532523dae514184140c5ca4712f97.loader.js",
     "Build/96a8b008cf6ed3e9cec92564dd0a5bab.framework.js",
-    "Build/622af145435c6149213c4feae90ac19e.data",
-    "Build/ce2e0630cce4990a5bb8a1f435cdca6c.wasm",
+    "Build/6eb131fbe71ff3d014e47288fdf77d15.data",
+    "Build/18d4a11a68acf904dbb85f1cbd20813a.wasm",
     "TemplateData/style.css"
 
 ];
